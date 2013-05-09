@@ -1,0 +1,15 @@
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\bin\Debug\MyTheme1.exe.config
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\bin\Debug\MyTheme1.exe
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\bin\Debug\MyTheme1.pdb
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1.csprojResolveAssemblyReference.cache
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MainWindow.baml
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MainWindow.g.cs
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\App.g.cs
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1_MarkupCompile.cache
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1.g.resources
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1.Properties.Resources.resources
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1.csproj.GenerateResource.Cache
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1.exe
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1.pdb
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1_MarkupCompile.lref
