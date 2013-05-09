@@ -19,6 +19,7 @@
                 <MenuItem Header="Edit">
                     <MenuItem Header="Copy" />
                     <MenuItem Header="Paste" />
+                    <MenuItem Header="Cut" />
                 </MenuItem>
             </Menu>
 
