@@ -13,3 +13,6 @@ c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debu
 c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1.pdb
 c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\GeneratedInternalTypeHelper.g.cs
 c:\users\gerald\documents\visual studio 2012\Projects\MyTheme1\MyTheme1\obj\Debug\MyTheme1_MarkupCompile.lref
+C:\Users\Gerald\Documents\Visual Studio 2012\Projects\mytheme\MyTheme1\bin\Debug\MyTheme1.exe.config
+C:\Users\Gerald\Documents\Visual Studio 2012\Projects\mytheme\MyTheme1\obj\Debug\MyTheme1.exe
+C:\Users\Gerald\Documents\Visual Studio 2012\Projects\mytheme\MyTheme1\obj\Debug\MyTheme1.pdb
